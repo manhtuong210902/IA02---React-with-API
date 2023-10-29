@@ -8,7 +8,7 @@ function Header() {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
-                        <div className="nav-link">Trang chủ</div>
+                        <div className="nav-link">20120619 _ Nguyễn Mạnh Tường</div>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
